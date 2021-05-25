@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(51, 48, 48, 0.753);
+    color: rgb(255, 255, 255);
+}
+
+.icon{
+    width: 150px;
+    height: 100px;
+}
+
+h1{
+    text-shadow: rgb(67, 165, 42);
+    
+    
+}
